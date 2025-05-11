@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+}
+
+.calc-button {
+    display: flex;
+    margin: auto;
+    min-width: 200px;
+    justify-content: center;
+}
